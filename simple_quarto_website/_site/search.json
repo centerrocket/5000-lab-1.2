@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "h1,h2,h3\nthings with two columns\nbulleted items\nmarkdown table 5.quatation 6.Images 7.Vedeo 8.mermaid\n\n\n\n\n\n\nOh give a great priase to the sun and moon\n\n\n\nAlso I want to give them to death and birth\n\n\n\nFirstly, death is the way we can leave the world\nBirth is the way we enter \\(age = death - brith\\)\n\nso we have to admire them\nso we have to enjoy them\n\\[ \\frac{death}{brith} = 1 \\]\n\n\n\n\n\nDeath\nBrith\n\n\n\n\nlike moon\nlike son\n\n\nleave the world\nenter the world\n\n\none time per life\none time per life\n\n\n\nLet us do a quatation on a strange thing:\n\n“My debt to serveal generations of students is equally large”(Vandiver 1977)\n\n  vedeo\n\n\n\n\n  graph TD;\n      A--&gt;B;\n      A--&gt;C;\n      B--&gt;D;\n      C--&gt;D;"
+  },
+  {
+    "objectID": "index.html#table-of-contents",
+    "href": "index.html#table-of-contents",
+    "title": "simple_quarto_website",
+    "section": "",
+    "text": "h1,h2,h3\nthings with two columns\nbulleted items\nmarkdown table 5.quatation 6.Images 7.Vedeo 8.mermaid\n\n\n\n\n\n\nOh give a great priase to the sun and moon\n\n\n\nAlso I want to give them to death and birth\n\n\n\nFirstly, death is the way we can leave the world\nBirth is the way we enter \\(age = death - brith\\)\n\nso we have to admire them\nso we have to enjoy them\n\\[ \\frac{death}{brith} = 1 \\]\n\n\n\n\n\nDeath\nBrith\n\n\n\n\nlike moon\nlike son\n\n\nleave the world\nenter the world\n\n\none time per life\none time per life\n\n\n\nLet us do a quatation on a strange thing:\n\n“My debt to serveal generations of students is equally large”(Vandiver 1977)\n\n  vedeo\n\n\n\n\n  graph TD;\n      A--&gt;B;\n      A--&gt;C;\n      B--&gt;D;\n      C--&gt;D;"
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "simple_quarto_website",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis is the first footnote.↩︎"
+  }
+]

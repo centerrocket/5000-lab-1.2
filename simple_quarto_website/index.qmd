@@ -1,0 +1,63 @@
+---
+title: "simple_quarto_website"
+bibliography: reference.bib
+---
+## Table of Contents:
+1. h1,h2,h3
+2. things with two columns
+3. bulleted items
+4. markdown table
+5.quatation
+6.Images
+7.Vedeo
+8.mermaid
+
+<h1>Welcome to My Website</h1>
+<h2>I am the author of the website</h2>
+<h3>What is the sum of the world[^1]</h3>
+
+[^1]: This is the first footnote.
+
+:::: {.columns}
+
+::: {.column width="70%"}
+Oh give a great priase to the sun and moon
+:::
+
+::: {.column width="10%"}
+
+:::
+
+::: {.column width="20%"}
+Also I want to give them to death and birth
+:::
+
+::::
+
+* Firstly, death is the way we can leave the world
+* Birth is the way we enter $age = death - brith$
+    + so we have to admire them
+    + so we have to enjoy them
+    + $$ \frac{death}{brith} = 1 $$
+
+| Death   | Brith |
+| -------- | ------- |
+| like moon  | like son    |
+| leave the world | enter the world     |
+| one time per life    | one time per life    |
+
+Let us do a quatation on a strange thing:  
+
+> "My debt to serveal generations of students is equally large"[@vandiver1977black]
+
+![image](./images/1.png)
+![image](./images/2.png)
+![vedeo](./images/vedeo.mp4)
+
+```{mermaid}
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
